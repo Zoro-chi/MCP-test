@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "weather": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--with",
+        "mcp[cli]",
+        "mcp",
+        "run",
+        "/Users/zoro/Desktop/JR/Projects/MCP/MCP-test/server/weather.py"
+      ]
+    }
+  }
+}
