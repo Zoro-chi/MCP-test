@@ -139,12 +139,3 @@ Additionally, the server has DEBUG level logging enabled to help diagnose issues
 - `mcpserver/Dockerfile`: Docker configuration for containerized deployment
 - `mcpserver/requirements.txt`: Package requirements for the alternative server
 
-## License
-
-[Your License Information]
-
-## Acknowledgements
-
-- [National Weather Service API](https://www.weather.gov/documentation/services-web-api)
-- [MCP (Model Context Protocol)](https://github.com/anthropics/anthropic-model-context-protocol)
-- [Groq API](https://console.groq.com/docs/quickstart)
